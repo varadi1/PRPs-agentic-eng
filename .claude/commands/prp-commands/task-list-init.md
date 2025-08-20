@@ -1,5 +1,5 @@
 claude
-\*\* Create a comprehensive task list in PRPs/checklist.md for PRP $ARGIMENTS
+\*\* Create a comprehensive task list in PRPs/checklist.md for PRP $ARGUMENTS
 
 Ingest the infomration then dig deep into our existing codebase and PRP, When done ->
 
